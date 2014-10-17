@@ -5,7 +5,6 @@
   "dependencies": {
     "hoodie-server": "0.9.19",
     "hoodie-plugin-appconfig": "~0.1.0",
-    "hoodie-plugin-email": "~0.1.1",
     "hoodie-plugin-users": "0.1.0"
   },
   "subdomain": "hoodie-myappname",
@@ -19,8 +18,8 @@
   "hoodie": {
     "plugins": [
       "hoodie-plugin-appconfig",
-      "hoodie-plugin-email",
-      "hoodie-plugin-users"
+      "hoodie-plugin-users",
+      "hoodie-plugin-createdb"
     ]
   }
 }
