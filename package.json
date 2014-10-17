@@ -7,11 +7,6 @@
     "hoodie-plugin-appconfig": "2.0.0",
     "hoodie-plugin-users": "1.0.0"
   },
-  "subdomain": "hoodie-myappname",
-  "domains": [
-    "admin.hoodie-myappname.jit.su",
-    "couch.hoodie-myappname.jit.su"
-  ],
   "scripts": {
     "start": "node node_modules/hoodie-server/bin/start"
   },
