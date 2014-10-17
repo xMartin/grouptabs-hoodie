@@ -1,11 +1,11 @@
 {
   "name": "grouptabs",
-  "version": "1.0.16",
+  "version": "2.1.0",
   "type": "app",
   "dependencies": {
-    "hoodie-server": "0.9.19",
-    "hoodie-plugin-appconfig": "~0.1.0",
-    "hoodie-plugin-users": "0.1.0"
+    "hoodie-server": "1.2.4",
+    "hoodie-plugin-appconfig": "2.0.0",
+    "hoodie-plugin-users": "1.0.0"
   },
   "subdomain": "hoodie-myappname",
   "domains": [
