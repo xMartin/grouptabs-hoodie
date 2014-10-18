@@ -5,7 +5,8 @@
   "dependencies": {
     "hoodie-server": "1.2.4",
     "hoodie-plugin-appconfig": "2.0.0",
-    "hoodie-plugin-users": "1.0.0"
+    "hoodie-plugin-users": "1.0.0",
+    "hoodie-plugin-createdb": "1.0.1"
   },
   "scripts": {
     "start": "node node_modules/hoodie-server/bin/start"
